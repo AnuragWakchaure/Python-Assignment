@@ -2,8 +2,8 @@
 
 
 
-````markdown
-# Python File Handling Tasks
+
+### Python File Handling Tasks
 
 This project contains two basic Python programs that demonstrate reading from and writing to files, along with proper error handling and user interaction.
 
@@ -18,6 +18,7 @@ Write a Python program that:
 3. Gracefully handles the error if the file does not exist.
 
 ### 📄 Example Code:
+````markdown
 ```python
 try:
     file = open("sample.txt", "r")
